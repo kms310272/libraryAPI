@@ -6,4 +6,5 @@
 <img width="536" alt="사용자 요구 정의서" src="https://github.com/kms310272/libraryAPI/assets/88031716/c14dc7da-4e19-46c3-a2ad-f06c8d629c52">
 <br/><br/>
 [ERD] <br/><br/>
+<img width="536" alt="erd" src="https://github.com/kms310272/libraryAPI/assets/88031716/ebcd31d2-46d7-444d-87f8-3d72f5cadad5">
 
